@@ -1,4 +1,4 @@
-package com.its.controller.rest;
+package com.flys.controller.rest;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
