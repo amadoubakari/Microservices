@@ -1,4 +1,4 @@
-package com.its;
+package com.flys;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

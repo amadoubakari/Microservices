@@ -1,10 +1,10 @@
-package com.its;
+package com.flys;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApiApplicationTests {
+class RegisterRecoveryServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
