@@ -2,9 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Configuration service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Configuration service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Gateway API" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gateway-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/register-recovery-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register-recovery-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
