@@ -5,10 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44baa79-1e5e-404c-b9e4-3fd473167c12" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_context_log4j2_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_jms_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_streams_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_messaging_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_rpc_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_metrics_micrometer_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_2_1_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway API/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway API/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway API/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway API/src/main/java/com/flys/GatewayApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway API/src/main/java/com/flys/GatewayApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-service/src/main/java/com/flys/TestServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-service/src/main/java/com/flys/TestServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/test-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +83,14 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3859447" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="settings.editor.splitter.proportion" value="0.35996056" />
   </component>
-  <component name="RunManager" selected="Application.TestServiceApplication">
+  <component name="RunManager" selected="Application.GatewayApiApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -378,10 +402,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestServiceApplication" />
         <item itemvalue="Application.GatewayApiApplication" />
         <item itemvalue="Application.RegisterRecoveryServiceApplication" />
         <item itemvalue="Application.MicroservicesConfigurationServiceApplication" />
+        <item itemvalue="Application.TestServiceApplication" />
       </list>
     </recent_temporary>
   </component>

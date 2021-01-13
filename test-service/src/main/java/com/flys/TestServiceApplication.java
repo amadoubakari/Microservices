@@ -1,5 +1,7 @@
 package com.flys;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -22,6 +24,8 @@ public class TestServiceApplication {
 @RestController
 class MessageRestController {
 
+    private static Logger log = LoggerFactory.getLogger(MessageRestController.class);
+
     @Value("${message:Hello default}")
     private String message;
 
@@ -32,6 +36,7 @@ class MessageRestController {
 
     @RequestMapping("/customer")
     Customer getCustomer() {
+        log.info("Ndoudja Bakari");
         return new Customer("CACF","Crédit Agricole Customer Finance");
     }
 
