@@ -13,7 +13,7 @@
         <module>register-recovery-service</module>
         <module>Configuration service</module>
         <module>test-service</module>
-
+        <module>zipkin</module>
     </modules>
 </project>
 
