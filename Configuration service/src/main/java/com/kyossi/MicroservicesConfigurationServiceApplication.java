@@ -1,4 +1,4 @@
-package com.flys;
+package com.kyossi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

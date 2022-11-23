@@ -1,4 +1,4 @@
-package com.flys.config;
+package com.kyossi.config;
 
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;
 import org.springframework.context.annotation.Bean;

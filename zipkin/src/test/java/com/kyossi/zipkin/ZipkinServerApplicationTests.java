@@ -1,10 +1,10 @@
-package com.flys;
+package com.kyossi.zipkin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApiApplicationTests {
+class ZipkinServerApplicationTests {
 
 	@Test
 	void contextLoads() {

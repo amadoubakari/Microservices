@@ -1,4 +1,4 @@
-package com.flys.config;
+package com.kyossi.config;
 
 import org.keycloak.adapters.springsecurity.KeycloakConfiguration;
 import org.keycloak.adapters.springsecurity.config.KeycloakWebSecurityConfigurerAdapter;
