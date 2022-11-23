@@ -14,6 +14,7 @@
         <module>Configuration service</module>
         <module>test-service</module>
         <module>zipkin</module>
+        <module>Gateway API</module>
     </modules>
 </project>
 
